@@ -1,0 +1,4 @@
+SOURCE += onlyMainFunction.C
+SOURCE += myTensor/myTensor.C
+
+LIB = $(FOAM_USER_LIBBIN)/test-onlyMainFunction

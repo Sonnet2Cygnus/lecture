@@ -1,0 +1,3 @@
+onlyMainFunction.C
+
+LIB = $(FOAM_USER_LIBBIN)/test-onlyMainFunction

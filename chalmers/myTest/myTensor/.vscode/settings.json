@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "decomposeParDict": "plaintext",
+        "myTensor.C": "cpp"
+    }
+}

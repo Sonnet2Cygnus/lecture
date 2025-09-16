@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "decomposeParDict": "plaintext",
+        "myNoSlipFvPatchVectorField.C": "cpp",
+        "onlyMainFunction.C": "cpp"
+    }
+}
